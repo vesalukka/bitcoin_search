@@ -5,7 +5,7 @@ You need to have python3 installed (made with Python 3.9.6 64-bit)
 
 Option1:
   1. Run with python3. ie.: python3 bitcoin_search.py
-  2. program then asks to dates to make bitcoin searche between then
+  2. program then asks to dates to make bitcoin searches between then
   3. program prints results to terminal where You started program
 
 Option2:
