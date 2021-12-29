@@ -15,4 +15,4 @@ If only one date is given program uses Option1. If one of the dates is invalid (
 program uses Option1.
   2. program prints results to terminal where You started program
   
- Since coin data is available only since 2013-04-28, dates before that are invalid. Allso future dates are invalid.
+ Coin data is available only since 2013-04-28, dates before that are invalid. Allso future dates are invalid.
