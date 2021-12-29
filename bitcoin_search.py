@@ -197,6 +197,10 @@ def main():
     start_string = start.strftime("%Y-%m-%d")
     end_string = end.strftime("%Y-%m-%d")
 
+    print("Using Day range:")
+    print(f"{start_string } - {end_string }")
+    print()
+
     # bitcoin history starts 2013-04-28 at coin gecko
     start_line = datetime.fromtimestamp(1367107200, tz.tzutc())
     start_line_string = start_line.strftime("%Y-%m-%d")
@@ -210,9 +214,6 @@ def main():
         print(f"At the moment this program can make only data searches from past.")
         return
 
-    print("Using Day range:")
-    print(f"{start_string } - {end_string }")
-    print()
     print("Starting coin data search:")
     prices, total_volumes = coin_gecko_search(start, end)
 
