@@ -1,4 +1,4 @@
-bitcoin_search.py is Python3 textbased program to make searches to bitcoin data on CoinGecko's public API. It is mine (Vesa Lukka, VesaL@iki.fi) reply to Vincit Rising Star Pre-assignment (see: https://vincit.fi/risingstar/ ).
+bitcoin_search.py is Python3 textbased program to make searches to bitcoin data on CoinGecko's public API. It is mine (Vesa Lukka, VesaL@iki.fi) reply to Vincit Rising Star Pre-assignment (see: https://vincit.fi/risingstar/ ) 2021.
 
 Environment:
 You need to have python3 installed (made with Python 3.9.6 64-bit)
